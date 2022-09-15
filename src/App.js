@@ -36,7 +36,7 @@ const App = () => {
         `https://api.apilayer.com/exchangerates_data/latest?`,
         {
           headers: {
-            apikey: "lR3Ub4ODQJ1iNpsQTFs9JiBIaxLJpcfC",
+            apikey: "lR3Ub4ODQJ1iNpsQTFs9JiBIaxLJpcfC" /* To be hidden */,
           },
         }
       );
